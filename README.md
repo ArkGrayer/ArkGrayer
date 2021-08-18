@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://media.giphy.com/media/jMywy4Er7JB7zDiU4B/giphy.gif" />
+</p>
+
 ## 👋🏻 Hi there! My name is <b>Igor Feitosa</b> and welcome to my professional profile! Here are some informations about me and what i work with:
 
 💼 Nowdays I'm working with Back-end <br>
@@ -37,6 +41,4 @@
   
   <h2 align="center"> My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h2>
  
-  <p align="center">
-  <img src="https://github.com/ArkGrayer/ArkGrayer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-  </p>
+  ![Snake animation](https://github.com/ArkGrayer/ArkGrayer/blob/output/github-contribution-grid-snake.svg)
