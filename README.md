@@ -38,5 +38,5 @@
   <h2 align="center"> My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h2>
  
   <p align="center">
-  <img src="https://github.com/Ark-Grayer/Ark-Grayer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ArkGrayer/ArkGrayer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
   </p>
