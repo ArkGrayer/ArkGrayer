@@ -6,12 +6,12 @@
 
 💼 Nowdays I'm working with Back-end <br>
 🌱 I’m currently learning TypeScript, Node.JS, Nest, etc... <br>
-⚡ Fun fact: I'm actually work with Unity in my free time :D <br>
+⚡ Fun fact: I'm actually work with Unity in my free time :D <br> <br>
 
  <div>
   <a href="https://github.com/Ark-Grayer">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=arkgrayer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=arkgrayer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <br>
 
