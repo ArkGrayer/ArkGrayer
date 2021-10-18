@@ -4,9 +4,9 @@
 
 <p align="center">
  
- [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
- [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
- [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
+ [![Visits Badge](https://badges.pufler.dev/visits/ArkGrayer/git-badges)](https://badges.pufler.dev)
+ [![Repos Badge](https://badges.pufler.dev/repos/ArkGrayer)](https://badges.pufler.dev)
+ [![Commits Badge](https://badges.pufler.dev/commits/monthly/ArkGrayer)](https://badges.pufler.dev)
 
 </p>
 
