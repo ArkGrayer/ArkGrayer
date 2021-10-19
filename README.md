@@ -4,7 +4,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ArkGrayer/ArkGrayer"/>
+ [![Visits Badge](https://badges.pufler.dev/visits/arkgrayer/git-badges)](https://badges.pufler.dev)
  <img src="https://badges.pufler.dev/repos/ArkGrayer"/>
  <img src="https://badges.pufler.dev/commits/monthly/ArkGrayer"/>
 
