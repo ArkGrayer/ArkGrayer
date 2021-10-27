@@ -18,8 +18,8 @@
 
  <div>
   <a href="https://github.com/arkgrayer">
-  <img style="width: 421px" align="center" src="https://github-readme-stats.vercel.app/api?username=arkgrayer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img style="width: 421px" align="center" src="https://github-readme-stats.vercel.app/api?username=arkgrayer&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <br>
 
