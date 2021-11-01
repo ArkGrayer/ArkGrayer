@@ -12,7 +12,7 @@
 
 ## 👋🏻 Hi there! My name is <b>Igor Feitosa</b> and welcome to my professional profile! Here are some informations about me and what i work with:
 
-💼 Nowdays I'm working with Back-end <br>
+💼 Nowdays I'm working with Full-Stack <br>
 🌱 I’m currently learning TypeScript, Node.JS, Nest, etc... <br>
 ⚡ Fun fact: I'm actually work with Unity in my free time :D <br> <br>
 
