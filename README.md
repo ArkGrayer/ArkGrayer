@@ -8,7 +8,7 @@
  
  <img src="https://badges.pufler.dev/visits/ArkGrayer/ArkGrayer"/>
  <img src="https://badges.pufler.dev/repos/ArkGrayer"/>
- <img src="https://badges.pufler.dev/commits/monthly/ArkGrayer"/>
+ <img src="https://badges.pufler.dev/commits/yearly/ArkGrayer"/>
 
 </p>
 
