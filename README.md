@@ -2,6 +2,8 @@
 <img src="https://media.giphy.com/media/jMywy4Er7JB7zDiU4B/giphy.gif" />
 </p>
 
+##
+
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/arkgrayer/arkgrayer"/>
@@ -14,7 +16,11 @@
 
 💼 Nowdays I'm working with Full-Stack <br>
 🌱 I’m currently learning TypeScript, Node.JS, Nest, etc... <br>
-⚡ Fun fact: I'm actually work with Unity in my free time :D <br> <br>
+⚡ Fun fact: I'm actually work with Unity in my free time :D <br>
+
+##
+
+ <h2 align="center">My Stats <img src="https://media.giphy.com/media/dsXA8X3TkluwerRTTT/giphy.gif" width="50"></h2>
 
  <div>
   <a href="https://github.com/arkgrayer">
@@ -22,6 +28,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <br>
+ 
+ ##
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
@@ -37,6 +45,14 @@
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeORM-e93524.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Husky-000000.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+
  </p>
  
  ##
