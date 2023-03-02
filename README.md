@@ -6,9 +6,9 @@
 
 <p align="center">
  
-[![Visits Badge](https://badges.strrl.dev/visits/ArkGrayer/ArkGrayer)](https://badges.strrl.dev)
-[![Public Repos Badge](https://badges.strrl.dev/repos/ArkGrayer)](https://badges.strrl.dev)
-[![Contributions Badge](https://badges.strrl.dev/contributions/all/ArkGrayer)](https://badges.strrl.dev)
+<img src="https://badges.strrl.dev/visits/ArkGrayer/ArkGrayer" />
+<img src="https://badges.strrl.dev/repos/ArkGrayer" />
+<img src="https://badges.strrl.dev/contributions/all/ArkGrayer" />
 
 </p>
 
