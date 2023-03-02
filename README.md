@@ -6,9 +6,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ArkGrayer/ArkGrayer"/>
- <img src="https://badges.pufler.dev/repos/ArkGrayer"/>
- <img src="https://badges.pufler.dev/commits/all/ArkGrayer"/>
+[![Visits Badge](https://badges.strrl.dev/visits/${arkgrayer}/${arkgrayer})](https://badges.strrl.dev)
 
 </p>
 
