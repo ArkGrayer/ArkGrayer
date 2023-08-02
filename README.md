@@ -24,8 +24,8 @@
 
  <div>
   <a href="https://github.com/arkgrayer">
-  <img style="width: 421px" align="center" src="https://github-readme-stats-two-beta-75.vercel.app/api?username=arkgrayer&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
-  <img align="center" src="https://github-readme-stats-two-beta-75.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=algolia"/>
+  <img style="width: 421px" align="center" src="https://github-readme-stats.vercel.app/api?username=arkgrayer&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <br>
  
@@ -33,8 +33,12 @@
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<p align="center">
+<div align="center">
+ <p>Mainly: </p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+<p>Secondary: </p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -43,18 +47,12 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeORM-e93524.svg?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
-<img src="https://img.shields.io/badge/Husky-000000.svg?style=for-the-badge" />
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
 
- </p>
+ </div>
  
  ##
 
@@ -75,4 +73,8 @@
   
   <h2 align="center"> My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h2>
  
-  ![Snake animation](https://github.com/ArkGrayer/ArkGrayer/blob/output/github-contribution-grid-snake.svg)
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+   <img alt="github-snake" src="github-snake.svg" />
+</picture>
