@@ -14,9 +14,9 @@
 
 ## 👋🏻 Hi there! My name is <b>Igor Feitosa</b> and welcome to my professional profile! Here are some informations about me and what i work with:
 
-💼 Nowdays I'm working with .Net and C# with Unity <br>
+💼 Nowdays I'm working with .Net, C++ and Blueprint in Unreal Engine 5 <br>
 🌱 I’m currently learning .Net, C#, C++, etc... <br>
-⚡ Fun fact: I'm actually work with Unity in my free time :D <br>
+⚡ Fun fact: I'm actually work with Unreal Engine 5 in my free time :D <br>
 
 ##
 
