@@ -24,8 +24,8 @@
 
  <div>
   <a href="https://github.com/arkgrayer">
-  <img style="width: 421px" align="center" src="https://github-readme-stats-peach-chi-53.vercel.app/api?username=arkgrayer&show_icons=true&theme=algolia"/>
-  <img align="center" src="https://github-readme-stats-peach-chi-53.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=algolia"/>
+  <img style="width: 421px" align="center" src="https://github-readme-stats-nu-two-67.vercel.app/api?username=arkgrayer&show_icons=true&theme=algolia"/>
+  <img align="center" src="https://github-readme-stats-nu-two-67.vercel.app/api/top-langs/?username=arkgrayer&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <br>
  
